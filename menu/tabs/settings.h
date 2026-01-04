@@ -1,7 +1,7 @@
 void DrawSettingsSection(float sidebarWidth)
 {
     ImGui::SetCursorPos(ImVec2(sidebarWidth + 15, 80));
-    ImGui::BeginChild("st4rrrrrr", ImVec2(260, 220), true, ImGuiWindowFlags_AlwaysUseWindowPadding);
+    ImGui::BeginChild("st4rrrrrrrrr", ImVec2(260, 220), true, ImGuiWindowFlags_AlwaysUseWindowPadding);
     auto draw = ImGui::GetWindowDrawList();
     auto pos = ImGui::GetWindowPos();
     auto size = ImGui::GetWindowSize();
