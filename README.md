@@ -1,5 +1,5 @@
 # Star.kit 
-two stars ill add the dxgi blur back, it looks better on the backing with a gaussian blur
+two stars add the dxgi blur back, it looks better on the backing with a gaussian blur
 
 https://github.com/user-attachments/assets/29e09ede-7737-402d-9ae9-12991069c817
 
