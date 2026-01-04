@@ -1,0 +1,40 @@
+﻿#include <windows.h>
+#include <thread>
+#include <cstdlib>
+#include <iostream>
+#include <intrin.h>
+#include <vector>
+#include <list>
+#include <random>
+#include <string>
+#include <MinHook.h>
+#include <shellapi.h>
+#include <chrono>
+#include <map>
+#include <unordered_map>
+#include <d3dcompiler.h>
+#include <fstream>
+#include <d3d11.h>
+#include <functional>
+#include <d3d11.h>
+#include <tlhelp32.h>
+#include <cstdint>
+#include <algorithm>
+#include <psapi.h>
+#include <set>
+#include <unordered_set>
+#include <mutex>
+#include "dependencies/ImGui/imgui.h"
+#include "dependencies/Fonts/Byte.h"
+#include "dependencies/Fonts/FontAwesome.h"
+#include "dependencies/kiero/kiero.h"
+#include "dependencies/ImGui/overlay.h"
+#include "dependencies/ImGui/imgui_impl_win32.h"
+#include "dependencies/ImGui/imgui_impl_dx11.h"
+#include "dependencies/helpers.h"
+#pragma comment(lib, "d3d11.lib")
+
+#include "menu/tabs/main.h"
+#include "menu/tabs/settings.h"
+
+#include "menu/setup.h" 
